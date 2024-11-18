@@ -46,7 +46,8 @@ button {
     letter-spacing: 0.02em;
 }
 
-.nav-link:hover .nav-link:focus{
+.nav-link:hover,
+.nav-link:focus {
     color: rgb(64, 75, 191);
 }
 
@@ -67,7 +68,8 @@ button {
     font-style: normal;
 }
 
-.contacts-link:hover .contacts-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
     color: rgb(64, 75, 191);
 }
 
@@ -95,7 +97,8 @@ button {
     background: rgb(77, 90, 229);
 }
 
-.button:hover .button:focus {
+.button:hover,
+.button:focus {
     background: rgb(64, 75, 191);
 }
 
